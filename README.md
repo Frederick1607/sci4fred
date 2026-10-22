@@ -8,7 +8,7 @@ Sci4Fred 是 AI4Fred 的一部分，一个面向肿瘤免疫研究的 AI 科研�
 
 打开 [最新版本](https://github.com/Frederick1607/sci4fred/releases/latest)，下载：
 
-- `Sci4Fred-<版本号>-arm64.dmg`（Apple 芯片 Mac）
+- `Sci4Fred-0.1.0-arm64.dmg`（Apple 芯片 Mac）
 
 如果页面显示“没有发布版本”，说明这一版还在内部测试，请联系 Frederick 获取安装包。
 
